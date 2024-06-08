@@ -14,7 +14,7 @@
 
 <div align="center">
     <h1>QUIÉN SOY</h1>
-    <p>Mi nombre es John Stiven Villa. Soy un tecnólogo en análisis y desarrollo de sistemas de información y un auditor interno ISO 27001, me apasiona el Hacking ético y la creación de software, poder ayudar a las empresas y personas emprendedoras a cada estar más dentro de la tecnología.</p>
+    <p>Mi nombre es John Stiven Villa. Soy un tecnólogo en análisis y desarrollo de sistemas de información y un auditor interno ISO 27001, me apasiona el Hacking ético y la creación de software, poder ayudar a las empresas y personas emprendedoras a evolucionar y cambiar las labores manuales por automatizadas.</p>
 </div>
 
 
